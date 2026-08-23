@@ -1,5 +1,4 @@
-<h1 align="center">¡Hola, soy Enrique! 👋</h1>
-<h3 align="center">Frontend Developer en formación · Angular & TypeScript</h3>
+<h1 align="center">¡Hola, soy Enrique!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Estudiante+de+Ing.+de+Software+en+la+UPC;Apasionado+por+el+Frontend+con+Angular;Siempre+aprendiendo+cosas+nuevas+%F0%9F%9A%80&font=Fira%20Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=20" />
@@ -16,16 +15,16 @@
 
 <br>
 
-## 🚀 Sobre mí
+## Sobre mí
 
-- 🎓 Estudiante de **Ingeniería de Software** en la **UPC**
-- 💻 Enfocado en desarrollo **Frontend** con **Angular** y **TypeScript**
-- 🌱 Explorando también **Java** y **JavaScript** en distintos proyectos
-- 📫 Puedes contactarme por LinkedIn o correo (arriba)
+- Estudiante de **Ingeniería de Software** en la **UPC**
+- Enfocado en desarrollo **Frontend** con **Angular** y **TypeScript**
+- Explorando también **Java** y **JavaScript** en distintos proyectos
+- Puedes contactarme por LinkedIn o correo (arriba)
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -83,19 +82,7 @@
 
 <br>
 
-## 📌 Proyectos destacados
-
-| Proyecto | Descripción |
-|---|---|
-| 🅰️ [my-project-angularupc](https://github.com/KenRi7/my-project-angularupc) | Proyecto Angular desarrollado en UPC |
-| 🗄️ [sungexp-db](https://github.com/KenRi7/sungexp-db) | Proyecto en Java |
-| 💰 [finanzass](https://github.com/KenRi7/finanzass) | Proyecto en JavaScript |
-| 🧮 [complejidadalg](https://github.com/KenRi7/complejidadalg) | Ejercicios de complejidad algorítmica |
-| 📄 [ProjectReport](https://github.com/KenRi7/ProjectReport) | Reporte de proyecto |
-
-<br>
-
-## 📊 Estadísticas de GitHub
+##  Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenRi7&theme=tokyonight&hide_border=true" />
@@ -106,5 +93,3 @@
 </p>
 
 <br>
-
-<p align="center"><i>Gracias por visitar mi perfil ✨ ¡Conectemos!</i></p>
