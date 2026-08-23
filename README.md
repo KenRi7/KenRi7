@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy Enrique! 👋</h1>
+<h1 align="center">¡Hola, soy Enrique!</h1>
 <h3 align="center">Frontend Developer en formación · Angular & TypeScript</h3>
 
 <p align="center">
@@ -20,6 +20,7 @@
 
 - 🎓 Estudiante de **Ingeniería de Sistemas** en la **UPC**
 - 💻 Enfocado en desarrollo **Frontend** con **Angular** y **TypeScript**
+- 📊 **Data & Arquitectura:** Fuerte interés en Data Analytics, automatización (VBA, SQL, Power BI) y diseño de sistemas.
 - 🌱 Explorando también **Java** y **JavaScript** en distintos proyectos
 - 📫 Puedes contactarme por LinkedIn o correo (arriba)
 
