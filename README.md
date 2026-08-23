@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola, soy Enrique!</h1>
 <h3 align="center">Software Developer · Frontend & Data Analytics</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Estudiante+de+Ing.+de+Software+en+la+UPC;Data+Analytics,+Arquitectura+y+Automatizacion;Frontend+con+Angular,+TypeScript+y+Flutter+%F0%9F%9A%80&font=Fira%20Code&center=true&width=700&height=45&color=58A6FF&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Estudiante+de+Ing.+de+Software+en+la+UPC;Data+Analytics,+Arquitectura+y+Automatizacion;Frontend+con+Angular,+TypeScript+y+Flutter&font=Fira%20Code&center=true&width=700&height=45&color=58A6FF&vCenter=true&size=20" />
 </p>
 
 <p align="center">
