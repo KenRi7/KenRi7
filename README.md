@@ -19,9 +19,8 @@
 
 - Estudiante de **Ingeniería de Software** en la **UPC**
 - Enfocado en desarrollo **Frontend** con **Angular** y **TypeScript**
-- Explorando también **Java** y **JavaScript** en distintos proyectos
-- Puedes contactarme por LinkedIn o correo (arriba)
-
+- Experiencia en análisis de datos, automatización y creación de dashboards.
+- Explorando desarrollo móvil con Flutter, además de Java y JavaScript.
 <br>
 
 ## Tech Stack
