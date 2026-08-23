@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer en formación · Angular & TypeScript</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Estudiante+de+Ing.+de+Sistemas+en+la+UPC;Apasionado+por+el+Frontend+con+Angular;Siempre+aprendiendo+cosas+nuevas+%F0%9F%9A%80&font=Fira%20Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Estudiante+de+Ing.+de+Software+en+la+UPC;Apasionado+por+el+Frontend+con+Angular;Siempre+aprendiendo+cosas+nuevas+%F0%9F%9A%80&font=Fira%20Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=20" />
 </p>
 
 <p align="center">
@@ -64,5 +64,3 @@
 </p>
 
 <br>
-
-<p align="center"><i>Gracias por visitar mi perfil ✨ ¡Conectemos!</i></p>
