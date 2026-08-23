@@ -22,7 +22,6 @@
 - 💻 Enfocado en desarrollo **Frontend** con **Angular** y **TypeScript**
 - 📊 **Data & Arquitectura:** Fuerte interés en Data Analytics, automatización (VBA, SQL, Power BI) y diseño de sistemas.
 - 🌱 Explorando también **Java** y **JavaScript** en distintos proyectos
-- 📫 Puedes contactarme por LinkedIn o correo (arriba)
 
 <br>
 
