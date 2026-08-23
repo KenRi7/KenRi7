@@ -80,15 +80,3 @@
 </p>
 
 <br>
-
-##  Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenRi7&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KenRi7&theme=tokyo-night&hide_border=true" />
-</p>
-
-<br>
