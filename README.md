@@ -18,7 +18,7 @@
 
 ## 🚀 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería de Sistemas** en la **UPC**
+- 🎓 Estudiante de **Ingeniería de Software** en la **UPC**
 - 💻 Enfocado en desarrollo **Frontend** con **Angular** y **TypeScript**
 - 📊 **Data & Arquitectura:** Fuerte interés en Data Analytics, automatización (VBA, SQL, Power BI) y diseño de sistemas.
 - 🌱 Explorando también **Java** y **JavaScript** en distintos proyectos
