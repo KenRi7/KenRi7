@@ -1,7 +1,7 @@
-<h1 align="center">¡Hola, soy Enrique!</h1>
+<h1 align="center">Hi, I'm Enrique!</h1>
 <h3 align="center">Software Developer · Frontend & Data Analytics</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Estudiante+de+Ing.+de+Software+en+la+UPC;Data+Analytics,+Arquitectura+y+Automatizacion;Frontend+con+Angular,+TypeScript+y+Flutter&font=Fira%20Code&center=true&width=700&height=45&color=58A6FF&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student+at+UPC;Data+Analytics,+Architecture+and+Automation;Frontend+with+Angular,+TypeScript+and+Flutter&font=Fira%20Code&center=true&width=700&height=45&color=58A6FF&vCenter=true&size=20" />
 </p>
 
 <p align="center">
@@ -15,12 +15,12 @@
 
 <br>
 
-## Sobre mí
+## About me
 
-- Estudiante de **Ingeniería de Software** en la **UPC**
-- Enfocado en desarrollo **Frontend** con **Angular** y **TypeScript**
-- Experiencia en análisis de datos, automatización y creación de dashboards.
-- Explorando desarrollo móvil con Flutter, además de Java y JavaScript.
+- **Software Engineering** student at **UPC**
+- Focused on **Frontend** development with **Angular** and **TypeScript**
+- Experience in data analytics, automation, and dashboard creation.
+- Exploring mobile development with Flutter, alongside Java and JavaScript.
 <br>
 
 ## Tech Stack
