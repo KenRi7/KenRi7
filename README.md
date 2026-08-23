@@ -1,8 +1,8 @@
 <h1 align="center">¡Hola, soy Enrique! 👋</h1>
-<h3 align="center">Software Developer · Frontend & Data Analytics</h3>
+<h3 align="center">Frontend Developer en formación · Angular & TypeScript</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Ingeniería+de+Software+en+la+UPC;Apasionado+por+Frontend+y+Datos;Desarrollo,+Arquitectura+y+Analytics&font=Fira%20Code&center=true&width=500&height=45&color=58A6FF&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Estudiante+de+Ing.+de+Sistemas+en+la+UPC;Apasionado+por+el+Frontend+con+Angular;Siempre+aprendiendo+cosas+nuevas+%F0%9F%9A%80&font=Fira%20Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=20" />
 </p>
 
 <p align="center">
@@ -14,65 +14,54 @@
   </a>
 </p>
 
----
+<br>
 
-### 🚀 Sobre mí
+## 🚀 Sobre mí
 
-- 🎓 **Estudiante de 7mo ciclo** de Ingeniería de Software en la UPC (Promedio global: 16.44).
-- 💻 **Desarrollo Frontend:** Enfocado en la creación de interfaces eficientes con Angular y TypeScript.
-- 📊 **Data & Arquitectura:** Fuerte interés en Data Analytics, automatización (VBA, SQL, Power BI) y diseño de sistemas.
-- 🌱 **Explorando:** Desarrollo con Java, Flutter y JavaScript en proyectos académicos y personales.
-- 📫 Puedes contactarme directamente por LinkedIn o a mi correo personal.
+- 🎓 Estudiante de **Ingeniería de Sistemas** en la **UPC**
+- 💻 Enfocado en desarrollo **Frontend** con **Angular** y **TypeScript**
+- 🌱 Explorando también **Java** y **JavaScript** en distintos proyectos
+- 📫 Puedes contactarme por LinkedIn o correo (arriba)
 
----
+<br>
 
-### 🛠️ Stack & Herramientas
+## 🛠️ Stack & Herramientas
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
-  <img src="https://img.shields.io/badge/VBA-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
+<br>
 
-### 📌 Proyectos destacados
+## 📌 Proyectos destacados
+
+| Proyecto | Descripción |
+|---|---|
+| 🅰️ [my-project-angularupc](https://github.com/KenRi7/my-project-angularupc) | Proyecto Angular desarrollado en UPC |
+| 🗄️ [sungexp-db](https://github.com/KenRi7/sungexp-db) | Proyecto en Java |
+| 💰 [finanzass](https://github.com/KenRi7/finanzass) | Proyecto en JavaScript |
+| 🧮 [complejidadalg](https://github.com/KenRi7/complejidadalg) | Ejercicios de complejidad algorítmica |
+| 📄 [ProjectReport](https://github.com/KenRi7/ProjectReport) | Reporte de proyecto |
+
+<br>
+
+## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <a href="https://github.com/KenRi7/my-project-angularupc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenRi7&repo=my-project-angularupc&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/KenRi7/finanzass">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenRi7&repo=finanzass&theme=tokyonight" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/KenRi7/sungexp-db">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenRi7&repo=sungexp-db&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/KenRi7/complejidadalg">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenRi7&repo=complejidadalg&theme=tokyonight" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenRi7&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KenRi7&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenRi7&theme=tokyonight&hide_border=true" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenRi7&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KenRi7&theme=tokyo-night&hide_border=true" />
 </p>
 
 <br>
+
 <p align="center"><i>Gracias por visitar mi perfil ✨ ¡Conectemos!</i></p>
